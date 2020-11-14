@@ -11,5 +11,3 @@ app.get("/qwe", (req, res) => {
 });
 
 app.listen(8080);
-
-//testi
